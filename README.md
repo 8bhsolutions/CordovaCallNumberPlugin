@@ -14,7 +14,7 @@ cordova plugin add https://github.com/8bhsolutions/CordovaCallNumberPlugin.git
 ## Remove
 
 ``` bash
-cordova plugin remove 8bhsolutions-cordova-plugin-power-button-listener
+cordova plugin rm call-number
 ```
 
 Use the plugin in your JS file:
